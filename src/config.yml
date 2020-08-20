@@ -1,0 +1,9 @@
+Snowball_Multiplier: 2
+CustomItems:
+  ThrowBall:
+    Id: snowball
+    DisplayName: "&f&lBola de Nieve"
+    Glow: true
+    Lore:
+      - "Cuidado que puedes lanzar a"
+      - "alguien a un mundo muy lejano."

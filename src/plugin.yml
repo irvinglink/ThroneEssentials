@@ -1,0 +1,13 @@
+main: com.github.irvinglink.ThroneEssentials.MClass
+name: ThroneEssentials
+version: 1.0
+api-version: 1.16
+authors: [irvinglink]
+commands:
+  clear:
+    description: Clean command.
+  clearall:
+    description: Clean all inventory including armor command.
+  customitems:
+    aliases: [ci]
+    description: CustomItems.
